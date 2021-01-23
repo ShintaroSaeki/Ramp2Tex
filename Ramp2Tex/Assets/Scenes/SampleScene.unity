@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _RampAmount: 0
-  _DissolveAmount: 0
+  _DissolveAmount: 0.376
 --- !u!65 &452763923
 BoxCollider:
   m_ObjectHideFlags: 0
