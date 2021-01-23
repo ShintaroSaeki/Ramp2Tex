@@ -59,7 +59,7 @@
     <Compile Include="Assets/Scripts/MaterialPropertyController.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets/Ramp2Tex.shader" />
+     <None Include="Assets/Shader/Ramp2Tex.shader" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.1.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
