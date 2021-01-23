@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FC161049-22BA-3B59-D0B2-804701E63B50}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ramp2Tex.shader">
+    <Files>
+      <File FileName="Assets/Ramp2Tex.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ramp2Tex" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Ramp2Tex.shader" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d471666-ce25-4af3-94fc-211f4ad511fd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
