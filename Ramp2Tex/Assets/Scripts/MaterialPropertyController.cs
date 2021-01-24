@@ -8,6 +8,7 @@ public class MaterialPropertyController : MonoBehaviour
 {
     [SerializeField] [Range(0, 1)] protected float _RampAmount;
     [SerializeField] [Range(0, 1)] protected float _DissolveAmount;
+    [SerializeField] protected Color _DissolveEdgeColor;
 
     private MeshRenderer _MeshRenderer;
     private MaterialPropertyBlock _MaterialPropertyBlock;
@@ -26,6 +27,7 @@ public class MaterialPropertyController : MonoBehaviour
 
         _MaterialPropertyBlock.SetFloat("_RampAmount", _RampAmount);
         _MaterialPropertyBlock.SetFloat("_DissolveAmount", _DissolveAmount);
+        _MaterialPropertyBlock.SetColor("_DissolveColor", _DissolveEdgeColor);
 
         _MeshRenderer.SetPropertyBlock(_MaterialPropertyBlock);
     }

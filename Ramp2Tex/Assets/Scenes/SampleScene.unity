@@ -157,6 +157,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _RampAmount: 0
   _DissolveAmount: 0.376
+  _DissolveEdgeColor: {r: 1, g: 0, b: 0, a: 0}
 --- !u!65 &452763923
 BoxCollider:
   m_ObjectHideFlags: 0
